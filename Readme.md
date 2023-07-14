@@ -1,0 +1,6 @@
+- Pour executer ce projet il faut executer le pom.xml qui est un fichier en relation avec Maven cela permet d'aller télécharger les différente dépendance du projet
+- ensuite il y'a plusieur main disponible dans le dossier src/main/java/Main
+  -   Main.java sert a tester le jeux simplement
+  -   MainDisplay a regarder une réseau de neurone
+  -   mainbatchMode sert a faire apprendre au reseau de neurone
+  -   mainbatchDebug sert a comprendre ce que fait le reseau de neurone pas à pas
