@@ -2,5 +2,5 @@
 - Ensuite, il y'a plusieurs main disponibles dans le dossier src/main/java/Main :
         - Main.java sert à tester le jeu simplement
         - MainDisplay sert à regarder un réseau de neurones
-        - mainbatchMode sert à faire apprendre au réseau de neurones
-        - mainbatchDebug sert à comprendre ce que fait le réseau de neurones, pas à pas
+        - MainbatchMode sert à faire apprendre au réseau de neurones
+        - MainbatchDebug sert à comprendre ce que fait le réseau de neurones, pas à pas
